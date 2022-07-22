@@ -1,1 +1,2 @@
 # odin-recipes
+This site will be a basic recipe website, with an index page that links to a few recipes. Building this website will test my html and basic Git workflow skills (using common Git commands to manage your project and upload your work onto GitHub).
