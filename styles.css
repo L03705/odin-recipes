@@ -4,3 +4,23 @@ h1 {
     font-weight: bold;
 }
 
+.basic {
+    background-color: #ffced6;
+    font-family: verdana, 'dejavu sans', sans-serif;
+}
+
+#blue {
+    color: rgb(0, 102, 255);
+    font-size: 36px;
+}
+
+#green {
+    background-color: hsl(84, 91%, 79%);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.div#larger {
+    font-size: 24px;
+}
+
